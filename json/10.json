@@ -1,0 +1,47 @@
+{
+  "name": "rising sun project #10",
+  "description": "This new collection has arrived, made up of 100 NFT, with original and fun combinations, launched on the polygon network.",
+  "image": "ipfs://UPDATE/10.png",
+  "dna": "c5ac4a81337d74fde662c2d088d29346ecb28466",
+  "edition": 10,
+  "date": 1645046227572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background_18"
+    },
+    {
+      "trait_type": "heads",
+      "value": "dark_red_head_in_tribal"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "purple_hair"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "green_eyes"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_tribal_shape"
+    },
+    {
+      "trait_type": "mouths",
+      "value": "mouth_with_green_and_gold_teeth"
+    },
+    {
+      "trait_type": "torsos",
+      "value": "short_coffee t_shirt"
+    },
+    {
+      "trait_type": "legs",
+      "value": "purple_pants"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "orange_sneaker"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
